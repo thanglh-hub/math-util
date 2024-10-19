@@ -43,7 +43,7 @@ public class MathUtilityDDTTest {
                 {3, 6},
                 {4, 24},
                 {5, 120},
-                {6, 7200},
+                {6, 720},
         };
     }
     @ParameterizedTest
